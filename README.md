@@ -20,14 +20,29 @@
   <img src="https://skillicons.dev/icons?i=azure,windows,linux&theme=dark" alt="Tecnologias" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows%20Server-2012%20R2%20%7C%202016-7AA2F7?style=for-the-badge&labelColor=1A1B27" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/Active%20Directory-AD%20DS-7AA2F7?style=for-the-badge&labelColor=1A1B27" alt="Active Directory" />
-  <img src="https://img.shields.io/badge/Proxmox-Virtualização-7AA2F7?style=for-the-badge&labelColor=1A1B27" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/MikroTik-MTCNA-7AA2F7?style=for-the-badge&labelColor=1A1B27" alt="MikroTik" />
-  <img src="https://img.shields.io/badge/Ubiquiti-Câmeras%20IP-7AA2F7?style=for-the-badge&labelColor=1A1B27" alt="Ubiquiti" />
-  <img src="https://img.shields.io/badge/GLPI-Gestão%20de%20ativos-7AA2F7?style=for-the-badge&labelColor=1A1B27" alt="GLPI" />
-</p>
+**☁️ Cloud**
+- Microsoft Azure (certificação AZ-900, 2026)
+
+**🖥️ Servidores e virtualização**
+- Windows Server 2012 R2 e 2016
+- Active Directory (AD DS) e File Server
+- Proxmox (virtualização em Linux)
+
+**🌐 Redes**
+- Projetos FTTH
+- Rádios outdoor 5 GHz (PTMP e PTP)
+- MikroTik (MTCNA obtida em 2017, expirada em 2020)
+- Redes wireless
+
+**📹 Câmeras e telefonia**
+- Câmeras IP Ubiquiti
+- Telefones IP
+
+**🎧 Suporte e gestão**
+- ServiceDesk (atendimento remoto e presencial, Nível 1 e 2)
+- GLPI (inventário e gestão de ativos)
+- Gestão de SLAs
+- Troubleshooting de hardware e de software
 
 ---
 <h2 align="center">🚀 Projetos em destaque</h2>
