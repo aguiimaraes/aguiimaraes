@@ -20,15 +20,17 @@
   <img src="https://skillicons.dev/icons?i=azure,windows,linux&theme=dark" alt="Tecnologias" />
 </p>
 
-<table width="100%">
+<div align="center">
+
+<table width="85%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
       <b>☁️ Cloud</b>
       <ul>
         <li>Microsoft Azure (certificação AZ-900, 2026)</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
       <b>🖥️ Servidores e virtualização</b>
       <ul>
         <li>Windows Server 2012 R2 e 2016</li>
@@ -38,7 +40,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
       <b>🌐 Redes</b>
       <ul>
         <li>Projetos FTTH</li>
@@ -47,7 +49,7 @@
         <li>Redes wireless</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
       <b>📹 Câmeras e telefonia</b>
       <ul>
         <li>Câmeras IP Ubiquiti</li>
@@ -56,7 +58,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td colspan="2" valign="top" align="left">
       <b>🎧 Suporte e gestão</b>
       <ul>
         <li>ServiceDesk (atendimento remoto e presencial, Nível 1 e 2)</li>
@@ -67,6 +69,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 <h2 align="center">🚀 Projetos em destaque</h2>
