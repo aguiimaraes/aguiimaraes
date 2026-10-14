@@ -20,29 +20,53 @@
   <img src="https://skillicons.dev/icons?i=azure,windows,linux&theme=dark" alt="Tecnologias" />
 </p>
 
-**☁️ Cloud**
-- Microsoft Azure (certificação AZ-900, 2026)
-
-**🖥️ Servidores e virtualização**
-- Windows Server 2012 R2 e 2016
-- Active Directory (AD DS) e File Server
-- Proxmox (virtualização em Linux)
-
-**🌐 Redes**
-- Projetos FTTH
-- Rádios outdoor 5 GHz (PTMP e PTP)
-- MikroTik (MTCNA obtida em 2017, expirada em 2020)
-- Redes wireless
-
-**📹 Câmeras e telefonia**
-- Câmeras IP Ubiquiti
-- Telefones IP
-
-**🎧 Suporte e gestão**
-- ServiceDesk (atendimento remoto e presencial, Nível 1 e 2)
-- GLPI (inventário e gestão de ativos)
-- Gestão de SLAs
-- Troubleshooting de hardware e de software
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>☁️ Cloud</b>
+      <ul>
+        <li>Microsoft Azure (certificação AZ-900, 2026)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>🖥️ Servidores e virtualização</b>
+      <ul>
+        <li>Windows Server 2012 R2 e 2016</li>
+        <li>Active Directory (AD DS) e File Server</li>
+        <li>Proxmox (virtualização em Linux)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🌐 Redes</b>
+      <ul>
+        <li>Projetos FTTH</li>
+        <li>Rádios outdoor 5 GHz (PTMP e PTP)</li>
+        <li>MikroTik (MTCNA obtida em 2017, expirada em 2020)</li>
+        <li>Redes wireless</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>📹 Câmeras e telefonia</b>
+      <ul>
+        <li>Câmeras IP Ubiquiti</li>
+        <li>Telefones IP</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <b>🎧 Suporte e gestão</b>
+      <ul>
+        <li>ServiceDesk (atendimento remoto e presencial, Nível 1 e 2)</li>
+        <li>GLPI (inventário e gestão de ativos)</li>
+        <li>Gestão de SLAs</li>
+        <li>Troubleshooting de hardware e de software</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 <h2 align="center">🚀 Projetos em destaque</h2>
