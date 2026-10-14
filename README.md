@@ -37,11 +37,13 @@
 
 <h3 align="center">Redes FTTH em condomínios residenciais</h3>
 
-<p align="center">
-Instalação de ativos de rede em dois condomínios com sistema de fibra FTTH, incluindo câmeras IP, redes wireless e telefones IP.<br/>
-<b>Stack:</b> FTTH, Ubiquiti (câmeras IP FullHD com áudio), redes wireless, telefonia IP, rádios outdoor 5 GHz (PTMP e PTP)<br/>
-<b>Resultados:</b> administração de rede centralizada, redes wireless nas áreas comuns e monitoramento de todo o condomínio por câmeras IP.
-</p>
+Instalação de ativos de rede em dois condomínios com sistema de fibra FTTH, incluindo câmeras IP, redes wireless e telefones IP.
+
+- **Stack:** FTTH, Ubiquiti, redes wireless, telefonia IP, rádios outdoor 5 GHz (PTMP e PTP)
+- **Resultados:**
+  - Administração de rede centralizada
+  - Redes wireless nas áreas comuns
+  - Câmeras IP Ubiquiti FullHD com áudio para monitoramento de todo o condomínio
 
 ---
 
