@@ -83,9 +83,7 @@ Instalação de ativos de rede em dois condomínios com sistema de fibra FTTH, i
   <a href="mailto:arthur.ferro@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-arthur.ferro@gmail.com-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" alt="E-mail" />
   </a>
-  <!-- Portfólio: descomente e troque pela URL quando existir
-  <a href="URL_DO_PORTFOLIO">
+  <a href="[URL_DO_PORTFOLIO](https://github.com/aguiimaraes/Painel-Interativo-para-Estudos)">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver%20projetos-7AA2F7?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=1A1B27" alt="Portfólio" />
   </a>
-  -->
 </p>
