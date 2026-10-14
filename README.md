@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/aguiimaraes">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=60&lines=Arthur+Guimar%C3%A3es+de+Carvalho+Ferro;T%C3%A9cnico+de+Suporte+de+TI+%7C+N%C3%ADvel+1+e+2;Redes+de+Computadores+%7C+Windows+Server+e+Active+Directory;Microsoft+Certified%3A+Azure+Fundamentals+(AZ-900)" alt="Animação de digitação com nome e títulos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&height=60&lines=Arthur+Guimar%C3%A3es+de+Carvalho+Ferro;T%C3%A9cnico+de+Suporte+de+TI+%7C+N%C3%ADvel+1+e+2;Redes+de+Computadores+%7C+Windows+Server+e+AD;Microsoft+Certified%3A+Azure+Fundamentals+(AZ-900)" alt="Animação de digitação com nome e títulos" />
 </a>
 
 </div>
