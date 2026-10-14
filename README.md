@@ -10,11 +10,9 @@
 
 <h2 align="center">👤 Sobre mim</h2>
 
-<p align="center">
-Técnico de Suporte Júnior na Thomas Greg & Sons, em Natal/RN, com atendimento de Nível 1 e 2, troubleshooting de software e hardware e inventário de ativos via GLPI.<br/>
-Antes, trabalhei em um provedor de internet em Aracaju/SE com projetos FTTH, Windows Server, Active Directory e virtualização com Proxmox.<br/>
-Tecnólogo em Redes de Computadores, com certificação Microsoft Azure Fundamentals (AZ-900).
-</p>
+- Técnico de Suporte Júnior na **Thomas Greg & Sons**, em Natal/RN, com atendimento de Nível 1 e 2, troubleshooting de software e hardware e inventário de ativos via GLPI.
+- Antes, atuei em um provedor de internet em Aracaju/SE, com projetos FTTH, Windows Server, Active Directory e virtualização com Proxmox.
+- Tecnólogo em Redes de Computadores, com certificação **Microsoft Azure Fundamentals (AZ-900)**.
 
 ---
 
