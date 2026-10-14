@@ -7,7 +7,6 @@
 </div>
 
 ---
-
 <h2 align="center">👤 Sobre mim</h2>
 
 - Técnico de Suporte Júnior na **Thomas Greg & Sons**, em Natal/RN, com atendimento de Nível 1 e 2, troubleshooting de software e hardware e inventário de ativos via GLPI.
@@ -15,7 +14,6 @@
 - Tecnólogo em Redes de Computadores, com certificação **Microsoft Azure Fundamentals (AZ-900)**.
 
 ---
-
 <h2 align="center">🛠️ Stack e ferramentas</h2>
 
 <p align="center">
@@ -32,7 +30,6 @@
 </p>
 
 ---
-
 <h2 align="center">🚀 Projetos em destaque</h2>
 
 <h3 align="center">Redes FTTH em condomínios residenciais</h3>
@@ -46,7 +43,6 @@ Instalação de ativos de rede em dois condomínios com sistema de fibra FTTH, i
   - Câmeras IP Ubiquiti FullHD com áudio para monitoramento de todo o condomínio
 
 ---
-
 <h2 align="center">📊 Atividade no GitHub</h2>
 
 <p align="center">
