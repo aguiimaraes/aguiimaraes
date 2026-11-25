@@ -13,7 +13,7 @@
 - **Buscando:** Suporte N2, Infraestrutura e Cloud Júnior (remoto ou híbrido em Natal).
 - **Em transição para Cloud & Infraestrutura (Azure):** construindo portfólio em laboratório próprio — servidor Linux, identidade híbrida e diagnósticos documentados em [infra-labs](https://github.com/aguiimaraes/infra-labs).
 - Antes, atuei em um provedor de internet em Aracaju/SE, com projetos FTTH, Windows Server, Active Directory e virtualização com Proxmox.
-- Tecnólogo em Redes de Computadores, com certificação **[Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/pt-br/ArthurGuimares-0673/E818B320BF690C57?sharingId=ED3A8B62CD31BCFF)** — credencial verificável no Microsoft Learn.
+- **Tecnólogo em Redes de Computadores**, com certificação **[Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/pt-br/ArthurGuimares-0673/E818B320BF690C57?sharingId=ED3A8B62CD31BCFF)**
 
 ---
 <h2 align="center">🛠️ Stack e ferramentas</h2>
