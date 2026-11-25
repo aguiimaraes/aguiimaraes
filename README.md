@@ -84,7 +84,17 @@ Instalação de ativos de rede em dois condomínios com sistema de fibra FTTH, i
   - Administração de rede centralizada
   - Redes wireless nas áreas comuns
   - Câmeras IP Ubiquiti FullHD com áudio para monitoramento de todo o condomínio
+    
+## 🚀 Projetos em destaque
 
+### infra-labs — laboratório de infraestrutura
+Linux, redes, identidade e Azure em cenários reais: falhas provocadas,
+diagnóstico e relatórios de incidente. Lab 01 em andamento.
+→ github.com/aguiimaraes/infra-labs
+
+### Painel interativo AZ-104
+Painel web em TypeScript para estudo da certificação Azure.
+→ github.com/aguiimaraes/Painel-Interativo-para-Estudos
 ---
 <h2 align="center">📊 Atividade no GitHub</h2>
 
