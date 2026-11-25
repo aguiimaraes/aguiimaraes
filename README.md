@@ -10,6 +10,7 @@
 <h2 align="center">👤 Sobre mim</h2>
 
 - Técnico de Suporte Júnior na **Thomas Greg & Sons**, em Natal/RN, com atendimento de Nível 1 e 2, troubleshooting de software e hardware e inventário de ativos via GLPI.
+- **Buscando:** Suporte N2, Infraestrutura e Cloud Júnior (remoto ou híbrido em Natal).
 - **Em transição para Cloud & Infraestrutura (Azure):** construindo portfólio em laboratório próprio — servidor Linux, identidade híbrida e diagnósticos documentados em [infra-labs](https://github.com/aguiimaraes/infra-labs).
 - Antes, atuei em um provedor de internet em Aracaju/SE, com projetos FTTH, Windows Server, Active Directory e virtualização com Proxmox.
 - Tecnólogo em Redes de Computadores, com certificação **[Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/pt-br/ArthurGuimares-0673/E818B320BF690C57?sharingId=ED3A8B62CD31BCFF)** — credencial verificável no Microsoft Learn.
@@ -28,7 +29,7 @@
     <td width="50%" valign="top" align="left">
       <b>☁️ Cloud</b>
       <ul>
-        <li>Microsoft Azure (AZ-900) — VNet/NSG, Storage, Backup e monitoramento em labs</li>
+        <li>Microsoft Azure (AZ-900) — lab de Storage em andamento</li>
         <li>Microsoft Entra ID (identidade em estudo: MFA e acesso condicional)</li>
       </ul>
     </td>
@@ -55,7 +56,7 @@
     <td width="50%" valign="top" align="left">
       <b>⚙️ Automação e scripts</b>
       <ul>
-        <li>Bash (Shell Script)</li>
+        <li>Bash (básico, em estudo)</li>
         <li>PowerShell</li>
         <li>Git e GitHub</li>
       </ul>
@@ -91,13 +92,17 @@
 Laboratórios de Linux, redes, identidade e Azure em formato de cenário real: falhas provocadas de propósito, diagnóstico com evidências e relatório de incidente de 1 página.
 
 - **Lab 01 — Linux:** 6 falhas provocadas e resolvidas (systemd, permissões, disco cheio, firewall, DNS) + dia do caos com 6/6 em 27min30s.
+- **Amostra do método:** [relatório da Falha 4 — disco cheio](https://github.com/aguiimaraes/infra-labs/blob/main/01-linux/cenario-a-diagnostico/falha-4-disco-cheio.md) (sintoma → causa raiz → solução → prevenção).
 - **Stack:** Ubuntu Server, Nginx, systemd, Hyper-V.
 
 ### [Painel interativo AZ-104](https://github.com/aguiimaraes/Painel-Interativo-para-Estudos)
 
-Painel web em TypeScript para organizar o estudo da certificação Microsoft AZ-104.
+Plataforma web (React + TypeScript) de preparação para a AZ-104: 150 questões autorais em simulados cronometrados, flashcards com repetição espaçada (SM-2), detector de pontos fracos e tutor com IA.
 
-### Experiência anterior: redes FTTH em condomínios residenciais
+---
+<h2 align="center">💼 Experiência anterior</h2>
+
+### Redes FTTH em condomínios residenciais
 
 Instalação de ativos de rede em dois condomínios com fibra FTTH, incluindo câmeras IP, redes wireless e telefones IP.
 
@@ -107,16 +112,14 @@ Instalação de ativos de rede em dois condomínios com fibra FTTH, incluindo c�
 ---
 <h2 align="center">📚 Em andamento</h2>
 
+*Atualizado em nov/2026*
+
 - **Lab 01 (Linux):** Cenário A concluído; Cenário B (hardening, backup e runbook) em curso.
 - **Formação Linux completa (Udemy):** do básico a serviços de rede, replicada em Rocky Linux no Hyper-V.
-- **AZ-104:** em preparação, com retomada planejada para fev/2027.
+- **AZ-104:** em preparação, com retomada dos estudos planejada para fev/2027.
 
 ---
 <h2 align="center">📊 Atividade no GitHub</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aguiimaraes&theme=tokyonight&hide_border=true" alt="Sequência de commits" />
-</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/7aa2f7/aguiimaraes" alt="Gráfico de contribuição" />
@@ -132,11 +135,5 @@ Instalação de ativos de rede em dois condomínios com fibra FTTH, incluindo c�
   </a>
   <a href="mailto:arthur.ferro@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-arthur.ferro@gmail.com-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" alt="E-mail" />
-  </a>
-  <a href="https://github.com/aguiimaraes/infra-labs">
-    <img src="https://img.shields.io/badge/Laborat%C3%B3rios-infra--labs-7AA2F7?style=for-the-badge&logo=linux&logoColor=white&labelColor=1A1B27" alt="infra-labs" />
-  </a>
-  <a href="https://github.com/aguiimaraes/Painel-Interativo-para-Estudos">
-    <img src="https://img.shields.io/badge/Painel-AZ--104-7AA2F7?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=1A1B27" alt="Painel AZ-104" />
   </a>
 </p>
