@@ -29,7 +29,7 @@
     <td width="50%" valign="top" align="left">
       <b>☁️ Cloud</b>
       <ul>
-        <li>Microsoft Azure (AZ-900) — lab de Storage em andamento</li>
+        <li><a href="https://learn.microsoft.com/api/credentials/share/pt-br/ArthurGuimares-0673/E818B320BF690C57?sharingId=ED3A8B62CD31BCFF">Microsoft Azure (AZ-900)</a></li>
         <li>Microsoft Entra ID (identidade em estudo: MFA e acesso condicional)</li>
       </ul>
     </td>
