@@ -12,7 +12,7 @@
 - Técnico de Suporte Júnior na **Thomas Greg & Sons**, em Natal/RN, com atendimento de Nível 1 e 2, troubleshooting de software e hardware e inventário de ativos via GLPI.
 - **Em transição para Cloud & Infraestrutura (Azure):** construindo portfólio em laboratório próprio — servidor Linux, identidade híbrida e diagnósticos documentados em [infra-labs](https://github.com/aguiimaraes/infra-labs).
 - Antes, atuei em um provedor de internet em Aracaju/SE, com projetos FTTH, Windows Server, Active Directory e virtualização com Proxmox.
-- Tecnólogo em Redes de Computadores, com certificação **Microsoft Azure Fundamentals (AZ-900)** — credencial do Microsoft Learn.
+- Tecnólogo em Redes de Computadores, com certificação **[Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/pt-br/ArthurGuimares-0673/E818B320BF690C57?sharingId=ED3A8B62CD31BCFF)** — credencial verificável no Microsoft Learn.
 
 ---
 <h2 align="center">🛠️ Stack e ferramentas</h2>
@@ -25,14 +25,14 @@
 
 <table width="85%">
   <tr>
-    <td width="50%" valign="top" align="left">
+    <td width="50%" valign="middle" align="center">
       <b>☁️ Cloud</b>
       <ul>
         <li>Microsoft Azure (AZ-900) — VNet/NSG, Storage, Backup e monitoramento em labs</li>
         <li>Microsoft Entra ID (identidade em estudo: MFA e acesso condicional)</li>
       </ul>
     </td>
-    <td width="50%" valign="top" align="left">
+    <td width="50%" valign="middle" align="center">
       <b>🖥️ Servidores e virtualização</b>
       <ul>
         <li>Linux (Ubuntu Server): permissões, systemd, redes e serviços</li>
@@ -43,7 +43,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" align="left">
+    <td width="50%" valign="middle" align="center">
       <b>🌐 Redes</b>
       <ul>
         <li>Projetos FTTH</li>
@@ -52,7 +52,7 @@
         <li>Redes wireless</li>
       </ul>
     </td>
-    <td width="50%" valign="top" align="left">
+    <td width="50%" valign="middle" align="center">
       <b>⚙️ Automação e scripts</b>
       <ul>
         <li>Bash (Shell Script)</li>
@@ -62,14 +62,14 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" align="left">
+    <td width="50%" valign="middle" align="center">
       <b>📹 Câmeras e telefonia</b>
       <ul>
         <li>Câmeras IP Ubiquiti</li>
         <li>Telefones IP</li>
       </ul>
     </td>
-    <td width="50%" valign="top" align="left">
+    <td width="50%" valign="middle" align="center">
       <b>🎧 Suporte e gestão</b>
       <ul>
         <li>ServiceDesk (remoto e presencial, Nível 1 e 2)</li>
@@ -86,18 +86,18 @@
 ---
 <h2 align="center">🚀 Projetos em destaque</h2>
 
-### [infra-labs](https://github.com/aguiimaraes/infra-labs) — laboratório de infraestrutura
+<h3 align="center"><a href="https://github.com/aguiimaraes/infra-labs">infra-labs</a> — laboratório de infraestrutura</h3>
 
 Laboratórios de Linux, redes, identidade e Azure em formato de cenário real: falhas provocadas de propósito, diagnóstico com evidências e relatório de incidente de 1 página.
 
 - **Lab 01 — Linux:** 6 falhas provocadas e resolvidas (systemd, permissões, disco cheio, firewall, DNS) + dia do caos com 6/6 em 27min30s.
 - **Stack:** Ubuntu Server, Nginx, systemd, Hyper-V.
 
-### [Painel interativo AZ-104](https://github.com/aguiimaraes/Painel-Interativo-para-Estudos)
+<h3 align="center"><a href="https://github.com/aguiimaraes/Painel-Interativo-para-Estudos">Painel interativo AZ-104</a></h3>
 
 Painel web em TypeScript para organizar o estudo da certificação Microsoft AZ-104.
 
-### Experiência anterior: redes FTTH em condomínios residenciais
+<h3 align="center">Experiência anterior: redes FTTH em condomínios residenciais</h3>
 
 Instalação de ativos de rede em dois condomínios com fibra FTTH, incluindo câmeras IP, redes wireless e telefones IP.
 
